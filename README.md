@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Sepulveda Barrueto</h1>
 <h3 align="center">A passionate Data Scientist// Chemical Engineer  From Chile 🇨🇱 </h3>
-<img align="right" alt="Coding" width="400" src="https://leapyear.io/wp-content/themes/leapyear/img/home/a.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*a-HMfeg5w-W02Nrw21iPtg.gif">
 
 - 🔭 I’m currently working on on a TELECOM company,where i analize data and make projects related to the product quality area
 
